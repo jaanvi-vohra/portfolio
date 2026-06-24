@@ -38,7 +38,6 @@ Implemented the Tideman (Ranked Pairs) voting algorithm to determine election wi
 
 **Repository:**
 https://github.com/jaanvi-vohra/ranked-voting-system
-
 ---
 
 ### Hash Table-Based Spell Checker
